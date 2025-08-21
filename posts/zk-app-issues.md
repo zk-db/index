@@ -28,6 +28,8 @@
 - [ ] add tool, tag cant type ','
 - [ ] after add tool, not refresh tools
 - [ ] url regex expression optimize
+- [ ] add/update tool modal too big
+- [ ] homepage mobile display too small
 
 
 
