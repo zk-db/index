@@ -25,6 +25,10 @@
 - [ ] canvas tool implement P1
 - [ ] zip to reduce network cost P2
 - [ ] add more useful cloud tools P2
+- [ ] add tool, tag cant type ','
+- [ ] after add tool, not refresh tools
+- [ ] url regex expression optimize
+
 
 
 
