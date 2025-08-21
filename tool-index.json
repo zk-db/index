@@ -15,22 +15,6 @@
     "cloud": 1
   },
   {
-    "key": "Blog",
-    "name": "Blog",
-    "url": "/tools/blog",
-    "description": "Markdown powered blog system",
-    "icon": "/tool_blog.svg",
-    "releaseDate": "2025-08-20",
-    "status": "beta",
-    "tags": [
-      "blog",
-      "markdown",
-      "github"
-    ],
-    "author": "Zeki",
-    "cloud": 0
-  },
-  {
     "key": "ChatBot",
     "name": "ChatBot",
     "url": "/tools/chatbot",
@@ -42,6 +26,37 @@
       "ai",
       "bot",
       "chat"
+    ],
+    "author": "Zeki",
+    "cloud": 0
+  },
+  {
+    "key": "Blog",
+    "name": "Blog",
+    "url": "/tools/blog",
+    "description": "Markdown powered blog system",
+    "icon": "/tool_blog.svg",
+    "releaseDate": "2025-08-20",
+    "status": "active",
+    "tags": [
+      "blog",
+      "markdown",
+      "github"
+    ],
+    "author": "Zeki",
+    "cloud": 0
+  },
+  {
+    "key": "Canvas",
+    "name": "Canvas",
+    "url": "/tools/canvas",
+    "description": "Image, SVG Editing",
+    "icon": "/tool_canvas.svg",
+    "releaseDate": "2025-08-23",
+    "status": "beta",
+    "tags": [
+      "image",
+      "editing"
     ],
     "author": "Zeki",
     "cloud": 0
