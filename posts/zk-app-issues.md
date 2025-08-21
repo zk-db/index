@@ -18,7 +18,8 @@
 - [ ] third part tools support P1
 - [ ] tool status deprecated  to offline, offline app open alert this is offline
 - [ ] confirm dialog,  logout windows optimization 
-
+- [x] switched storage to zk-db github account P1
+- [ ] need refactor env key names P2
 
 
 
