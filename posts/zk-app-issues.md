@@ -16,20 +16,21 @@
 - [x] tool manage function P1
 - [ ] svg drawer tool P1
 - [x] third part tools support P1
-- [x] tool status deprecated  to offline
+- [x] tool status deprecated  to offline P1
 - [x] offline app open alert this is offline - wont'do
-- [ ] confirm dialog,  logout windows optimization 
+- [ ] confirm dialog,  logout windows optimization P2
 - [x] switched storage to zk-db github account P1
 - [x] need refactor env key names P2
 - [ ] cloud tool click jump or iframe P1
 - [ ] canvas tool implement P1
 - [ ] zip to reduce network cost P2
 - [ ] add more useful cloud tools P2
-- [ ] add tool, tag cant type ','
-- [ ] after add tool, not refresh tools
-- [ ] url regex expression optimize
-- [ ] add/update tool modal too big
-- [ ] homepage mobile display too small
+- [ ] add tool, tag cant type ',' P1
+- [ ] after add tool, not refresh tools P1
+- [ ] url regex expression optimize P1
+- [ ] add/update tool modal too big P1
+- [ ] homepage mobile display too small P1
+- [ ] blog save dialog too big P2
 
 
 
