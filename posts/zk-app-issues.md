@@ -31,6 +31,7 @@
 - [ ] add/update tool modal too big P1
 - [ ] homepage mobile display too small P1
 - [ ] blog save dialog too big P2
+- [ ] PMW support P2
 
 
 
