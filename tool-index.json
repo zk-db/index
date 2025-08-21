@@ -52,7 +52,7 @@
     "description": "AI Chat Bot ",
     "icon": "/tool_chatbot.svg",
     "releaseDate": "2025-08-15",
-    "status": "beta",
+    "status": "active",
     "tags": [
       "ai",
       "bot",
