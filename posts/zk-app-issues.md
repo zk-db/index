@@ -13,14 +13,18 @@
 - [ ] markdown render too long fix P1
 - [ ] return function P2
 - [ ] search panel, header search button, search to P2
-- [ ] tool manage function P1
+- [x] tool manage function P1
 - [ ] svg drawer tool P1
-- [ ] third part tools support P1
+- [x] third part tools support P1
 - [x] tool status deprecated  to offline
-- [ ] offline app open alert this is offline
+- [x] offline app open alert this is offline - wont'do
 - [ ] confirm dialog,  logout windows optimization 
 - [x] switched storage to zk-db github account P1
 - [x] need refactor env key names P2
+- [ ] cloud tool click jump or iframe P1
+- [ ] canvas tool implement P1
+- [ ] zip to reduce network cost P2
+- [ ] add more useful cloud tools P2
 
 
 
