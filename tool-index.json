@@ -32,21 +32,6 @@
     "cloud": 0
   },
   {
-    "key": "Canvas",
-    "name": "Canvas",
-    "url": "/tools/canvas",
-    "description": "Image, SVG Editing",
-    "icon": "/tool_canvas.svg",
-    "releaseDate": "2025-08-23",
-    "status": "active",
-    "tags": [
-      "image",
-      "editing"
-    ],
-    "author": "Zeki",
-    "cloud": 0
-  },
-  {
     "key": "2025-08-22 02:03:41",
     "name": "baidu",
     "url": "https://baidu.com",
@@ -59,5 +44,20 @@
     ],
     "author": "System",
     "cloud": 1
+  },
+  {
+    "key": "Canvas",
+    "name": "Canvas",
+    "url": "/tools/canvas",
+    "description": "Image, SVG Editing",
+    "icon": "/tool_canvas.svg",
+    "releaseDate": "2025-08-23",
+    "status": "beta",
+    "tags": [
+      "image",
+      "editing"
+    ],
+    "author": "Zeki",
+    "cloud": 0
   }
 ]
