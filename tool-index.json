@@ -30,5 +30,20 @@
     ],
     "author": "Zeki",
     "cloud": true
+  },
+  {
+    "key": "Canvas",
+    "name": "Canvas",
+    "url": "/tools/canvas",
+    "description": "Image, SVG Editing",
+    "icon": "/tool_canvas.svg",
+    "releaseDate": "2025-08-23",
+    "status": "beta",
+    "tags": [
+      "image",
+      "editing"
+    ],
+    "author": "Zeki",
+    "cloud": 0
   }
 ]
