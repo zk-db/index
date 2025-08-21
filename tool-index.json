@@ -51,7 +51,7 @@
     "name": "baidu",
     "url": "https://baidu.com",
     "description": "baidu homepage",
-    "icon": "/add_tool.svg",
+    "icon": "/add.svg",
     "releaseDate": "2025-08-23",
     "status": "active",
     "tags": [
