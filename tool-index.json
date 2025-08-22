@@ -45,5 +45,20 @@
     ],
     "author": "Zeki",
     "cloud": 0
+  },
+  {
+    "key": "2025-08-22 15:46:36",
+    "name": "Type tool name",
+    "url": "#",
+    "description": "Descripe the tool(Not too long)",
+    "icon": "/add.svg",
+    "releaseDate": "2025-08-22 01:36:00",
+    "status": "draft",
+    "tags": [
+      "system",
+      "add-new"
+    ],
+    "author": "System",
+    "cloud": 1
   }
 ]
