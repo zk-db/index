@@ -37,8 +37,8 @@
 
 - render error using error.tsx
 - set 404.tsx for not found page
-- swr and context for performance and  globel api error handle
-display
-
+- swr and context for performance and  globel 
+- api error handle display
+- tool status dev beta rc
 
 
