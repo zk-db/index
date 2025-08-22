@@ -92,5 +92,37 @@
     "author": "Zeki",
     "cloud": 0,
     "newTab": 1
+  },
+  {
+    "key": "Files",
+    "name": "Files",
+    "url": "/tools/file",
+    "description": "Files manager",
+    "icon": "/file_storage.svg",
+    "releaseDate": "2025-08-23",
+    "status": "draft",
+    "tags": [
+      "file",
+      "manage",
+      "share"
+    ],
+    "author": "Zeki",
+    "cloud": 0
+  },
+  {
+    "key": "Files",
+    "name": "Files",
+    "url": "/tools/file",
+    "description": "Files manager",
+    "icon": "/file_storage.svg",
+    "releaseDate": "2025-08-23",
+    "status": "active",
+    "tags": [
+      "file",
+      "manage",
+      "share"
+    ],
+    "author": "Zeki",
+    "cloud": 0
   }
 ]
