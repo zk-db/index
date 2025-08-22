@@ -32,6 +32,8 @@
 - [ ] homepage mobile display too small P1
 - [ ] blog save dialog too big P2
 - [ ] PMW support P2
+- [ ] try merge blog edit function into view mode P3
+- [ ] blog add/edit/return button P2
 
 
 
