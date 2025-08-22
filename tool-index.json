@@ -46,22 +46,6 @@
     "cloud": 1
   },
   {
-    "key": "2025-08-22 18:53:20",
-    "name": "Commando boat",
-    "url": "https://commandoboat.com/game/index.html",
-    "description": "commando boat",
-    "icon": "/add.svg",
-    "releaseDate": "2025-08-22",
-    "status": "beta",
-    "tags": [
-      "system",
-      "add-new"
-    ],
-    "author": "System",
-    "cloud": 1,
-    "newTab": 0
-  },
-  {
     "key": "Blog",
     "name": "Blog",
     "url": "/tools/blog",
@@ -108,5 +92,21 @@
     "author": "System",
     "cloud": 1,
     "newTab": 1
+  },
+  {
+    "key": "2025-08-22 18:53:20",
+    "name": "Commando boat",
+    "url": "https://commandoboat.com/game/index.html",
+    "description": "commando boat",
+    "icon": "https://zk-db.github.io/index/files/imgs",
+    "releaseDate": "2025-08-22",
+    "status": "beta",
+    "tags": [
+      "system",
+      "add-new"
+    ],
+    "author": "System",
+    "cloud": 1,
+    "newTab": 0
   }
 ]
