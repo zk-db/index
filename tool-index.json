@@ -79,22 +79,6 @@
     "cloud": 0
   },
   {
-    "key": "2025-08-22 18:53:20",
-    "name": "Commando boat",
-    "url": "https://commandoboat.com/game/index.html",
-    "description": "commando boat",
-    "icon": "https://zk-db.github.io/index/files/imgs",
-    "releaseDate": "2025-08-22",
-    "status": "beta",
-    "tags": [
-      "system",
-      "add-new"
-    ],
-    "author": "System",
-    "cloud": 1,
-    "newTab": 0
-  },
-  {
     "key": "2025-08-22 18:20:44",
     "name": "Last seen online",
     "url": "https://qwook.itch.io/last-seen-online",
@@ -108,5 +92,21 @@
     "author": "System",
     "cloud": 1,
     "newTab": 1
+  },
+  {
+    "key": "2025-08-22 18:53:20",
+    "name": "Commando boat",
+    "url": "https://commandoboat.com/game/index.html",
+    "description": "commando boat",
+    "icon": "https://zk-db.github.io/index/files/imgs/game-control-2-svgrepo-com.svg",
+    "releaseDate": "2025-08-22",
+    "status": "beta",
+    "tags": [
+      "system",
+      "add-new"
+    ],
+    "author": "System",
+    "cloud": 1,
+    "newTab": 0
   }
 ]
