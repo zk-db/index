@@ -31,21 +31,6 @@
     "cloud": 0
   },
   {
-    "key": "2025-08-22 16:00:05",
-    "name": "google",
-    "url": "#",
-    "description": "google homepage",
-    "icon": "/add.svg",
-    "releaseDate": "2025-08-23",
-    "status": "beta",
-    "tags": [
-      "system",
-      "add-new"
-    ],
-    "author": "System",
-    "cloud": 1
-  },
-  {
     "key": "Blog",
     "name": "Blog",
     "url": "/tools/blog",
