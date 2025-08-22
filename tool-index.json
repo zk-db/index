@@ -59,19 +59,5 @@
     ],
     "author": "Zeki",
     "cloud": 0
-  },
-  {
-    "key": "2025-08-22 02:43:39",
-    "name": "Google",
-    "url": "https://google.com",
-    "description": "goole search",
-    "icon": "/add.svg",
-    "releaseDate": "2025-08-22",
-    "status": "offline",
-    "tags": [
-      "google"
-    ],
-    "author": "System",
-    "cloud": 1
   }
 ]
