@@ -1,21 +1,5 @@
 [
   {
-    "key": "Blog",
-    "name": "Blog",
-    "url": "/tools/blog",
-    "description": "Markdown powered blog system",
-    "icon": "/tool_blog.svg",
-    "releaseDate": "2025-08-20",
-    "status": "active",
-    "tags": [
-      "blog",
-      "markdown",
-      "github"
-    ],
-    "author": "Zeki",
-    "cloud": 0
-  },
-  {
     "key": "ChatBot",
     "name": "ChatBot",
     "url": "/tools/chatbot",
@@ -91,5 +75,22 @@
     "author": "System",
     "cloud": 1,
     "newTab": 0
+  },
+  {
+    "key": "Blog",
+    "name": "Blog",
+    "url": "/tools/blog",
+    "description": "Markdown powered blog system",
+    "icon": "/tool_blog.svg",
+    "releaseDate": "2025-08-20",
+    "status": "active",
+    "tags": [
+      "blog",
+      "markdown",
+      "github"
+    ],
+    "author": "Zeki",
+    "cloud": 0,
+    "newTab": 1
   }
 ]
