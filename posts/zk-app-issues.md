@@ -40,5 +40,7 @@
 - swr and context for performance and  globel 
 - api error handle display
 - tool status dev beta rc
+- tool delete need confirm
+- system tool delete btn remove
 
 
