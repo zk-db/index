@@ -25,12 +25,12 @@
 - [ ] canvas tool implement P1
 - [ ] zip to reduce network cost P2
 - [ ] add more useful cloud tools P2
-- [ ] add tool, tag cant type ',' P1
-- [ ] after add tool, not refresh tools P1
+- [x] add tool, tag cant type ',' P1 - can't reproduce
+- [x] after add tool, not refresh tools P1
 - [ ] url regex expression optimize P1
-- [ ] add/update tool modal too big P1
-- [ ] homepage mobile display too small P1
-- [ ] blog save dialog too big P2
+- [x] add/update tool modal too big P1
+- [x] homepage mobile display too small P1 - tried bigger font
+- [x] blog save dialog too big P2
 - [ ] PMW support P2
 - [ ] try merge blog edit function into view mode P3
 - [ ] blog add/edit/return button P2
