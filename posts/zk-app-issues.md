@@ -35,6 +35,10 @@
 - [ ] try merge blog edit function into view mode P3
 - [ ] blog add/edit/return button P2
 
+- render error using error.tsx
+- set 404.tsx for not found page
+- swr and context for performance and  globel api error handle
+display
 
 
 
