@@ -25,7 +25,7 @@
 - [ ] canvas tool implement P1
 - [ ] zip to reduce network cost P2
 - [ ] add more useful cloud tools P2
-- [x] add tool, tag cant type ',' P1 - can't reproduce
+- [ ] add tool, tag cant type ',' P0 reopened
 - [x] after add tool, not refresh tools P1
 - [ ] url regex expression optimize P1
 - [x] add/update tool modal too big P1
