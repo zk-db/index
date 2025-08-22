@@ -100,7 +100,7 @@
     "description": "Files manager",
     "icon": "/file_storage.svg",
     "releaseDate": "2025-08-23",
-    "status": "draft",
+    "status": "active",
     "tags": [
       "file",
       "manage",
