@@ -60,5 +60,19 @@
     ],
     "author": "System",
     "cloud": 1
+  },
+  {
+    "key": "2025-08-22 18:20:44",
+    "name": "Last seen online",
+    "url": "https://qwook.itch.io/last-seen-online",
+    "description": "",
+    "icon": "/add.svg",
+    "releaseDate": "2025-08-22",
+    "status": "beta",
+    "tags": [
+      "game，2d"
+    ],
+    "author": "System",
+    "cloud": 1
   }
 ]
