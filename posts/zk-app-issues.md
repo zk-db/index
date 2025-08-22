@@ -25,23 +25,24 @@
 - [ ] canvas tool implement P1
 - [ ] zip to reduce network cost P2
 - [ ] add more useful cloud tools P2
-- [ ] add tool, tag cant type ',' P0 reopened
+- [x] add tool, tag cant type ',' P0 reopened, fixed
 - [x] after add tool, not refresh tools P1
-- [ ] url regex expression optimize P1
+- [x] url regex expression optimize P1
 - [x] add/update tool modal too big P1
 - [x] homepage mobile display too small P1 - tried bigger font
 - [x] blog save dialog too big P2
 - [ ] PMW support P2
 - [ ] try merge blog edit function into view mode P3
 - [ ] blog add/edit/return button P2
+- [ ] files management P1
 
 - render error using error.tsx
 - set 404.tsx for not found page
 - swr and context for performance and  globel 
 - api error handle display
-- tool status dev beta rc
-- tool delete need confirm
-- system tool delete btn remove
+- [x] tool status dev beta rc
+- [x] tool delete need confirm
+- [x]system tool delete btn remove
 - password autofill auto login
 
 
