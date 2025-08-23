@@ -5,9 +5,19 @@
     "format": ".txt",
     "link": "https:/zk-db.github.io/index/files/coding.txt",
     "folder": "/coding.txt",
-    "updatedAt": "2025-08-24 00:34:46",
+    "updatedAt": "2025-08-24 00:46:34",
     "content": "",
     "sha": "377c404df44a00bf8fca66f3f285cf2782622856"
+  },
+  {
+    "id": "files/disk.md",
+    "name": "disk.md",
+    "format": ".md",
+    "link": "https:/zk-db.github.io/index/files/disk.md",
+    "folder": "/disk.md",
+    "updatedAt": "2025-08-24 00:46:34",
+    "content": "",
+    "sha": "81b116ee613961705d8219f291dedea9efd6fe5e"
   },
   {
     "id": "files/game-control-2-svgrepo-com.svg",
@@ -15,7 +25,7 @@
     "format": ".svg",
     "link": "https:/zk-db.github.io/index/files/game-control-2-svgrepo-com.svg",
     "folder": "/game-control-2-svgrepo-com.svg",
-    "updatedAt": "2025-08-24 00:34:46",
+    "updatedAt": "2025-08-24 00:46:34",
     "content": "",
     "sha": "02c64ed1b8842f45aa13858b3627c4e2188ac6ce"
   },
@@ -25,7 +35,7 @@
     "format": ".md",
     "link": "https:/zk-db.github.io/index/files/memory manage.md",
     "folder": "/memory manage.md",
-    "updatedAt": "2025-08-24 00:34:46",
+    "updatedAt": "2025-08-24 00:46:34",
     "content": "",
     "sha": "79ab9da1119c59531f36e488365227f2618914bb"
   },
@@ -35,7 +45,7 @@
     "format": ".md",
     "link": "https:/zk-db.github.io/index/files/reademe.md",
     "folder": "/reademe.md",
-    "updatedAt": "2025-08-24 00:34:46",
+    "updatedAt": "2025-08-24 00:46:34",
     "content": "",
     "sha": "835d96487bf2a56445d1ad433cab1fb3cae6e193"
   },
@@ -45,7 +55,7 @@
     "format": ".svg",
     "link": "https:/zk-db.github.io/index/files/text.svg",
     "folder": "/text.svg",
-    "updatedAt": "2025-08-24 00:34:46",
+    "updatedAt": "2025-08-24 00:46:34",
     "content": "",
     "sha": "253a21792b6aad0ebb67ec30aeaff5c53226fbeb"
   }
