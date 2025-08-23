@@ -1,1 +1,25 @@
-IyBkaXNrDQoNCiMjIGZsb3cNCg0KYGBgbWVybWFpZA0KZ3JhcGggVEQNCmxvYWQgLS1wYXRoLS0+IGlub2RlRGF0YQ0KaW5vZGVEYXRhIC0tZ2V0LS0+IGlub2RlSWQNCmlub2RlSWQgLS1wb2ludC0tPiBkYXRhTm9kZXMNCmRhdGFOb2RlcyAtLWxvYWQtLT4gYnVmZmVyDQoNCmBgYA0KDQojIyBzdG9yYWdlDQpgYGANCltzdXBlcl9ibG9ja11baW5vZGVfYml0bWFwXVtkYXRhX2JpdG1hcF1baW5vZGVfYmxvY2tzXVtkYXRhX2Jsb2Nrc10NCnN1cGVyX2Jsb2NrOiBkaXNrIGluZm8NCnh4eF9iaXRtYXA6IGlmIHRoZSBibG9jayBoYXMgZGF0YQ0KaW5vZGVfYmxvY2tzOiBpbm9kZSBkYXRhLHNhdmUgbWV0YWRhdGEgYW5kIHNvbWUgcG9pbnQgdG8gZGF0YV9ibG9ja3MNCmRhdGFfYmxvY2tzOiBzYXZlIGRhdGENCihibG9jazo0SyBzdWJibG9jazo1MTJiKQ0KYGBgDQoNCg0KDQo=
+# disk
+
+## flow
+
+```mermaid
+graph TD
+load --path--> inodeData
+inodeData --get--> inodeId
+inodeId --point--> dataNodes
+dataNodes --load--> buffer
+
+```
+
+## storage
+```
+[super_block][inode_bitmap][data_bitmap][inode_blocks][data_blocks]
+super_block: disk info
+xxx_bitmap: if the block has data
+inode_blocks: inode data,save metadata and some point to data_blocks
+data_blocks: save data
+(block:4K subblock:512b)
+```
+
+
+
