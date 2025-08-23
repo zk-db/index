@@ -1,1 +1,55 @@
-MS4gR2V0TWluU3RhY2sNClszLDEsMiw1LDcsNCwzXQ0KDQoNCjMNCkdldE1pbiAzDQozIDEgDQpHZXRNaW4gMQ0KMw0KR2V0TWluIDMNCjMgMSANCkdldE1pbiAxDQozIDEgMg0KR2V0TWluIDENCi4uLi4uLg0KDQozIDEgMiA1IDcgNCAzDQpHZXRNaW4gMQ0KDQoyLk1heE5vUmVwZWF0U3RyaW5nDQoNCiJhYmNiY2FkZWZmIg0KbWF4OiBiY2FkZWYNCg0KMy5NYXhTdWJTZXFTdW0NClstMSwyLDMsLTIsMiwxXQ0KDQptYXg6IDIrMy0yKzIrMSA9IDYNCg0Kc29sdXRpb246DQooMSlkcFtpXSA9IGRwW2ktMV0gPiAwID8gbnVtW2ldIDogZHBbaS0xXSA6IG51bVtpXQ0KZHAgPSBbLTEsMiw1LDMsNSw2XQ0KbWF4ID0gbWF4KGRwKSA9IDYNCg0KDQo0Lk1peFNvcnRMaW5rUmVTb3J0DQpbMiw4LDUsNiw3LDQsOSwzLDEwLDFdDQphc2M6WzIsNSw3LDksMTBdIE1peFdpdGggZGVzYzpbOCw2LDQsMywxXSANCnNvbHV0aW9uc++8mg0KKDEpLmpvaW4gbGluayBieSBzb3J0IChIOmhlYWQgb2YgbGluaywgQzpjdXJyIG5vZGUpDQpbMkgsNSw3LDksMTBdIFs4SCw2LDQsMywxXQ0KKDIpcmV2ZXJzZSBkZXNjIGxpbmsNClsySCw1LDcsOSwxMF0gWzFILDMsNCw2LDhdDQooMylqb2luIHR3byBzb3J0ZWQgbGluaw0KWzJIQyw1LDcsOSwxMF0gWzFIQywzLDQsNiw4XQ0KWzFILDIsM0MsNCw2LDhdIFs1SEMsNyw5LDEwXQ0KWzFILDIsMyw0LDUsNkMsOF0gWzdIQyw5LDEwXQ0KWzFILDIsMyw0LDUsNiw3Qyw4XSBbOUhDLDEwXQ0KWzFILDIsMyw0LDUsNiw3LDgsOUNdIFsxMF0NClsxSCwyLDMsNCw1LDYsNyw4LDksMTBDXSBbMTBdDQpyZXR1cm4gWzFILDIsMyw0LDUsNiw3LDgsOSwxMENdDQoNCg0KDQoNCg==
+1. GetMinStack
+[3,1,2,5,7,4,3]
+
+
+3
+GetMin 3
+3 1 
+GetMin 1
+3
+GetMin 3
+3 1 
+GetMin 1
+3 1 2
+GetMin 1
+......
+
+3 1 2 5 7 4 3
+GetMin 1
+
+2.MaxNoRepeatString
+
+"abcbcadeff"
+max: bcadef
+
+3.MaxSubSeqSum
+[-1,2,3,-2,2,1]
+
+max: 2+3-2+2+1 = 6
+
+solution:
+(1)dp[i] = dp[i-1] > 0 ? num[i] : dp[i-1] : num[i]
+dp = [-1,2,5,3,5,6]
+max = max(dp) = 6
+
+
+4.MixSortLinkReSort
+[2,8,5,6,7,4,9,3,10,1]
+asc:[2,5,7,9,10] MixWith desc:[8,6,4,3,1] 
+solutions：
+(1).join link by sort (H:head of link, C:curr node)
+[2H,5,7,9,10] [8H,6,4,3,1]
+(2)reverse desc link
+[2H,5,7,9,10] [1H,3,4,6,8]
+(3)join two sorted link
+[2HC,5,7,9,10] [1HC,3,4,6,8]
+[1H,2,3C,4,6,8] [5HC,7,9,10]
+[1H,2,3,4,5,6C,8] [7HC,9,10]
+[1H,2,3,4,5,6,7C,8] [9HC,10]
+[1H,2,3,4,5,6,7,8,9C] [10]
+[1H,2,3,4,5,6,7,8,9,10C] [10]
+return [1H,2,3,4,5,6,7,8,9,10C]
+
+
+
+
