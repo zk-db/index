@@ -108,15 +108,5 @@
     "updatedAt": "2025-08-24 01:38:02",
     "content": "",
     "sha": "b595eb1631d6088194076011fbe8c826c1967984"
-  },
-  {
-    "id": "files/reademe.md",
-    "name": "reademe.md",
-    "format": ".md",
-    "link": "https:/zk-db.github.io/index/files/reademe.md",
-    "folder": "/reademe.md",
-    "updatedAt": "2025-08-24 01:38:02",
-    "content": "",
-    "sha": "835d96487bf2a56445d1ad433cab1fb3cae6e193"
   }
 ]
