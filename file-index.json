@@ -8,5 +8,15 @@
     "updatedAt": "2025-08-24 21:48:00",
     "content": "",
     "sha": "5b7242407193716f98349046aca13a35e2d0e195"
+  },
+  {
+    "id": "n8n.json",
+    "name": "n8n.json",
+    "format": ".json",
+    "link": "https://zk-db.github.io/index/files/n8n.json",
+    "folder": "",
+    "content": "",
+    "updatedAt": "2025-08-25 00:19:54",
+    "sha": ""
   }
 ]
