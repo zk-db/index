@@ -66,7 +66,7 @@
   {
     "key": "2025-08-22 18:53:20",
     "name": "Poki",
-    "url": "https://www.y8.com/",
+    "url": "https://www.poki.com/",
     "description": "Poki game platform",
     "icon": "https://zk-db.github.io/index/files/game-control-2-svgrepo-com.svg",
     "releaseDate": "2025-08-22",
@@ -77,6 +77,6 @@
     ],
     "author": "Poki",
     "cloud": 1,
-    "newTab": 0
+    "newTab": 1
   }
 ]
