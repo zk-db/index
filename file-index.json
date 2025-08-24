@@ -68,15 +68,5 @@
     "updatedAt": "2025-08-24 01:38:02",
     "content": "",
     "sha": "02c64ed1b8842f45aa13858b3627c4e2188ac6ce"
-  },
-  {
-    "id": "files/hello-world.md",
-    "name": "hello-world.md",
-    "format": ".md",
-    "link": "https:/zk-db.github.io/index/files/hello-world.md",
-    "folder": "/hello-world.md",
-    "updatedAt": "2025-08-24 01:38:02",
-    "content": "",
-    "sha": "acfb54ba1f663c78e71af6976e78e63009965d32"
   }
 ]
