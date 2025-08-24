@@ -33,22 +33,6 @@
     "newTab": 1
   },
   {
-    "key": "2025-08-22 18:53:20",
-    "name": "Commando",
-    "url": "https://commandoboat.com/game/index.html",
-    "description": "commando boat",
-    "icon": "https://zk-db.github.io/index/files/game-control-2-svgrepo-com.svg",
-    "releaseDate": "2025-08-22",
-    "status": "beta",
-    "tags": [
-      "system",
-      "add-new"
-    ],
-    "author": "System",
-    "cloud": 1,
-    "newTab": 0
-  },
-  {
     "key": "Canvas",
     "name": "Canvas",
     "url": "/tools/canvas",
@@ -108,5 +92,21 @@
     ],
     "author": "System",
     "cloud": 1
+  },
+  {
+    "key": "2025-08-22 18:53:20",
+    "name": "Poki",
+    "url": "https://poki.com/",
+    "description": "Poki game platform",
+    "icon": "https://zk-db.github.io/index/files/game-control-2-svgrepo-com.svg",
+    "releaseDate": "2025-08-22",
+    "status": "beta",
+    "tags": [
+      "game",
+      "poki"
+    ],
+    "author": "Poki",
+    "cloud": 1,
+    "newTab": 0
   }
 ]
