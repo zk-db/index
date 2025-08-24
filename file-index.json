@@ -48,15 +48,5 @@
     "updatedAt": "2025-08-24 01:38:02",
     "content": "",
     "sha": "71f81eb9151638fbb5b3cea96ec9bedd4726be9b"
-  },
-  {
-    "id": "files/disk.md",
-    "name": "disk.md",
-    "format": ".md",
-    "link": "https:/zk-db.github.io/index/files/disk.md",
-    "folder": "/disk.md",
-    "updatedAt": "2025-08-24 01:38:02",
-    "content": "",
-    "sha": "81b116ee613961705d8219f291dedea9efd6fe5e"
   }
 ]
