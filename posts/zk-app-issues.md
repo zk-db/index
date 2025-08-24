@@ -4,7 +4,7 @@
 - [x] chatbot mobile device display optimize P1
 - [x] blog list sort 
 - [ ] cache to fast visit speed P2
-- [ ] post sha maintain, research if sha is required P2
+- [ ] post sha maintain, research if sha is required P3
 - [ ] blog view mode. guest visit P3
 - [x] search posts P1, 
 - [ ] home page search action? P1
@@ -34,15 +34,15 @@
 - [ ] PMW support P2
 - [ ] try merge blog edit function into view mode P3
 - [ ] blog add/edit/return button P2
-- [ ] files management P1
+- [x] files management P1
 
-- render error using error.tsx
-- set 404.tsx for not found page
-- swr and context for performance and  globel 
-- api error handle display
+- [ ] render error using error.tsx
+- [ ] set 404.tsx for not found page
+- [ ] swr and context for performance and  globel 
+- [ ] api error handle display
 - [x] tool status dev beta rc
 - [x] tool delete need confirm
-- [x]system tool delete btn remove
-- password autofill auto login
+- [x] system tool delete btn remove
+- [x] password autofill auto login - not bug
 
 
