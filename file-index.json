@@ -38,15 +38,5 @@
     "updatedAt": "2025-08-24 01:38:02",
     "content": "",
     "sha": "f21ad855a541ad34c0ff0e3ce36293eaaac0e8fc"
-  },
-  {
-    "id": "files/coding.txt",
-    "name": "coding.txt",
-    "format": ".txt",
-    "link": "https:/zk-db.github.io/index/files/coding.txt",
-    "folder": "/coding.txt",
-    "updatedAt": "2025-08-24 01:38:02",
-    "content": "",
-    "sha": "71f81eb9151638fbb5b3cea96ec9bedd4726be9b"
   }
 ]
