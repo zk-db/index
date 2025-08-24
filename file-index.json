@@ -118,15 +118,5 @@
     "updatedAt": "2025-08-24 01:38:02",
     "content": "",
     "sha": "835d96487bf2a56445d1ad433cab1fb3cae6e193"
-  },
-  {
-    "id": "files/text.svg",
-    "name": "text.svg",
-    "format": ".svg",
-    "link": "https:/zk-db.github.io/index/files/text.svg",
-    "folder": "/text.svg",
-    "updatedAt": "2025-08-24 01:38:02",
-    "content": "",
-    "sha": "253a21792b6aad0ebb67ec30aeaff5c53226fbeb"
   }
 ]
