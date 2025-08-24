@@ -78,15 +78,5 @@
     "updatedAt": "2025-08-24 01:38:02",
     "content": "",
     "sha": "acfb54ba1f663c78e71af6976e78e63009965d32"
-  },
-  {
-    "id": "files/how-create-new-post-by-cmdline.md",
-    "name": "how-create-new-post-by-cmdline.md",
-    "format": ".md",
-    "link": "https:/zk-db.github.io/index/files/how-create-new-post-by-cmdline.md",
-    "folder": "/how-create-new-post-by-cmdline.md",
-    "updatedAt": "2025-08-24 01:38:02",
-    "content": "",
-    "sha": "0c0661d37d95eac3f44daff6e6731566c8ea1f82"
   }
 ]
