@@ -128,15 +128,5 @@
     "updatedAt": "2025-08-24 01:38:02",
     "content": "",
     "sha": "253a21792b6aad0ebb67ec30aeaff5c53226fbeb"
-  },
-  {
-    "id": "files/使用ssh连接github.md",
-    "name": "使用ssh连接github.md",
-    "format": ".md",
-    "link": "https:/zk-db.github.io/index/files/使用ssh连接github.md",
-    "folder": "/使用ssh连接github.md",
-    "updatedAt": "2025-08-24 01:38:02",
-    "content": "",
-    "sha": "35b9f9c0ce978e3ca6bcc0b575b398cc0b323d96"
   }
 ]
