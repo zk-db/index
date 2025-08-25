@@ -49,6 +49,7 @@
 - [ ] upload file and get link function, button at header right top. click show all recent 10 files, click file copy link and a upload button, click upload file
 - [ ] bug: copy to clipboard, all files icon changed
 - [ ] files app to put on header icon
+- [ ] tool info - cloud or not
 
 
 ## test
