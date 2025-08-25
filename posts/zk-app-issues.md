@@ -44,5 +44,13 @@
 - [x] tool delete need confirm
 - [x] system tool delete btn remove
 - [x] password autofill auto login - not bug
+- [ ] tool edit 'OpenMethod' -> 'open In New Tab'
+- [ ] icon change: add tool button, files upload button
+- [ ] upload file and get link function, button at header right top. click show all recent 10 files, click file copy link and a upload button, click upload file
+- [ ] bug: copy to clipboard, all files icon changed
+- [ ] files app to put on header icon
 
+
+## test
+- [x] image done, ![here](https://zk-db.github.io/index/files/game-control-2-svgrepo-com.svg)
 
