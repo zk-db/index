@@ -78,5 +78,20 @@
     "author": "Poki",
     "cloud": 1,
     "newTab": 1
+  },
+  {
+    "key": "2025-08-25 20:03:13",
+    "name": "Type tool name",
+    "url": "#",
+    "description": "Descripe the tool(Not too long)",
+    "icon": "cube.svg",
+    "releaseDate": "2025-08-22 01:36:00",
+    "status": "draft",
+    "tags": [
+      "system",
+      "add-new"
+    ],
+    "author": "System",
+    "cloud": 1
   }
 ]
