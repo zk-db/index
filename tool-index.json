@@ -82,7 +82,7 @@
   {
     "key": "2025-08-25 11:16:26",
     "name": "test files modal",
-    "url": "/tool/files",
+    "url": "/tools/file",
     "description": "Descripe the tool(Not too long)",
     "icon": "/add.svg",
     "releaseDate": "2025-08-22 01:36:00",
