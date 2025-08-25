@@ -78,5 +78,20 @@
     "author": "Poki",
     "cloud": 1,
     "newTab": 1
+  },
+  {
+    "key": "2025-08-25 11:16:26",
+    "name": "test files modal",
+    "url": "/tool/files",
+    "description": "Descripe the tool(Not too long)",
+    "icon": "/add.svg",
+    "releaseDate": "2025-08-22 01:36:00",
+    "status": "draft",
+    "tags": [
+      "system",
+      "add-new"
+    ],
+    "author": "System",
+    "cloud": 1
   }
 ]
