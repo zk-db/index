@@ -78,5 +78,20 @@
     "author": "Poki",
     "cloud": 1,
     "newTab": 1
+  },
+  {
+    "key": "2025-08-25 16:06:38",
+    "name": "Couple Game",
+    "url": "https://www.couplegamenight.com",
+    "description": "Descripe the tool(Not too long)",
+    "icon": "/add.svg",
+    "releaseDate": "2025-08-25",
+    "status": "draft",
+    "tags": [
+      "couple",
+      "game"
+    ],
+    "author": "System",
+    "cloud": 1
   }
 ]
