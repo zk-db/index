@@ -48,22 +48,6 @@
     "cloud": 0
   },
   {
-    "key": "Files",
-    "name": "Files",
-    "url": "/tools/file",
-    "description": "Files manager",
-    "icon": "/file_storage.svg",
-    "releaseDate": "2025-08-23",
-    "status": "beta",
-    "tags": [
-      "file",
-      "manage",
-      "share"
-    ],
-    "author": "Zeki",
-    "cloud": 0
-  },
-  {
     "key": "2025-08-22 18:53:20",
     "name": "Poki",
     "url": "https://www.poki.com/",
@@ -78,5 +62,21 @@
     "author": "Poki",
     "cloud": 1,
     "newTab": 1
+  },
+  {
+    "key": "Files",
+    "name": "Files",
+    "url": "/tools/file",
+    "description": "Files manager",
+    "icon": "/file_storage.svg",
+    "releaseDate": "2025-08-23",
+    "status": "active",
+    "tags": [
+      "file",
+      "manage",
+      "share"
+    ],
+    "author": "Zeki",
+    "cloud": 0
   }
 ]
