@@ -84,7 +84,7 @@
     "name": "Polotno",
     "url": "https://studio.polotno.com",
     "description": "Descripe the tool(Not too long)",
-    "icon": "cube.svg",
+    "icon": "/cube.svg",
     "releaseDate": "2025-08-26",
     "status": "active",
     "tags": [
