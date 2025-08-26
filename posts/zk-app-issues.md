@@ -59,4 +59,4 @@
 - [x] bug: copy to clipboard, all files icon changed
 - [ ] files app to put on header icon : upload file and get link function, button at header right top. click show all recent 10 files, click file copy link and a upload button, click upload file
 - [ ] tool info - cloud or not P4 
-
+![test](https://zk-db.github.io/index/files/tools-svgrepo-com.svg)
