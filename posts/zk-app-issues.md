@@ -1,5 +1,12 @@
 # ZK App Issues
 
+## New functions
+1. quick ideas
+
+## Blog To Do
+1. How to use Github actions 
+
+## To Do List
 - [x] login page UI update P1
 - [x] chatbot mobile device display optimize P1
 - [x] blog list sort 
