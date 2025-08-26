@@ -7,6 +7,8 @@
 1. How to use Github actions 
 
 ## To Do List
+- [ ] quick ideas, click ideas button, display recent  10 ideas and can quick record some ideas 
+- [ ] app search button - create appSearch component, click to query and support search(icon and url is required) 
 - [x] login page UI update P1
 - [x] chatbot mobile device display optimize P1
 - [x] blog list sort 
@@ -57,8 +59,3 @@
 - [ ] files app to put on header icon : upload file and get link function, button at header right top. click show all recent 10 files, click file copy link and a upload button, click upload file
 - [ ] tool info - cloud or not P4 
 
-
-## test
-- [x] image done, ![here](https://zk-db.github.io/index/files/game-control-2-svgrepo-com.svg)
-
-![hi](https://zk-db.github.io/index/files/game-control-2-svgrepo-com.svg)
