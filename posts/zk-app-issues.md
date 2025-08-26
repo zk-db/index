@@ -9,6 +9,7 @@
 ## To Do List
 - [ ] quick ideas, click ideas button, display recent  10 ideas and can quick record some ideas 
 - [ ] app search button - create appSearch component, click to query and support search(icon and url is required) 
+- [ ] chatbot add config button, set key and base url P4
 - [x] login page UI update P1
 - [x] chatbot mobile device display optimize P1
 - [x] blog list sort 
