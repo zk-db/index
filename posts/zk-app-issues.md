@@ -7,8 +7,8 @@
 1. How to use Github actions 
 
 ## To Do List
-- [ ] quick ideas, click ideas button, display recent  10 ideas and can quick record some ideas 
-- [ ] click apps in header, float a panel to view tools, support search, click to jump to tool or open in current tab
+- [ ] quick ideas, click ideas button, display recent  10 ideas and can quick record some ideas, storage as `ideas.json`
+- [x] click apps in header, float a panel to view tools, click to jump to tool or open in current tab
 - [ ] chatbot add config button, set key and base url P4
 - [x] login page UI update P1
 - [x] chatbot mobile device display optimize P1
