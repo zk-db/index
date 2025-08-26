@@ -93,5 +93,22 @@
     "author": "Zeki",
     "cloud": 0,
     "newTab": 0
+  },
+  {
+    "key": "2025-08-26 13:04:33",
+    "name": "Polotno",
+    "url": "https://studio.polotno.com",
+    "description": "Descripe the tool(Not too long)",
+    "icon": "cube.svg",
+    "releaseDate": "2025-08-26",
+    "status": "active",
+    "tags": [
+      "image",
+      "layout",
+      "tool"
+    ],
+    "author": "System",
+    "cloud": 1,
+    "newTab": 1
   }
 ]
