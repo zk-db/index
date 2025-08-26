@@ -8,7 +8,7 @@
 
 ## To Do List
 - [ ] quick ideas, click ideas button, display recent  10 ideas and can quick record some ideas 
-- [ ] tab apps manage, efficiency mode, if enable, top: dashborad|app1|app2|app3  CloseCurrent\n app view
+- [ ] click apps in header, float a panel to view tools, support search, click to jump to tool or open in current tab
 - [ ] chatbot add config button, set key and base url P4
 - [x] login page UI update P1
 - [x] chatbot mobile device display optimize P1
