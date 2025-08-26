@@ -95,20 +95,5 @@
     "author": "System",
     "cloud": 1,
     "newTab": 0
-  },
-  {
-    "key": "2025-08-26 13:29:40",
-    "name": "Type tool name123",
-    "url": "/tools/file",
-    "description": "Descripe the tool(Not too long)",
-    "icon": "cube.svg",
-    "releaseDate": "2025-08-22 01:36:00",
-    "status": "draft",
-    "tags": [
-      "system",
-      "add-new"
-    ],
-    "author": "System",
-    "cloud": 1
   }
 ]
