@@ -63,21 +63,6 @@
     "newTab": 1
   },
   {
-    "key": "2025-08-25 20:48:12",
-    "name": "baidu",
-    "url": "https://baidu.com",
-    "description": "Descripe the tool(Not too long)",
-    "icon": "cube.svg",
-    "releaseDate": "2025-08-22 01:36:00",
-    "status": "draft",
-    "tags": [
-      "system",
-      "add-new"
-    ],
-    "author": "System",
-    "cloud": 1
-  },
-  {
     "key": "Blog",
     "name": "Blog",
     "url": "/tools/blog",
