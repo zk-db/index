@@ -94,21 +94,5 @@
     ],
     "author": "Zeki",
     "cloud": 0
-  },
-  {
-    "key": "ChatBot",
-    "name": "ChatBot",
-    "url": "/tools/chatbot",
-    "description": "Minimalist AI Chat Interface",
-    "icon": "/tool_chatbot.svg",
-    "releaseDate": "2025-08-15",
-    "status": "active",
-    "tags": [
-      "ai",
-      "bot",
-      "chat"
-    ],
-    "author": "Zeki",
-    "cloud": 0
   }
 ]
