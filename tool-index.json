@@ -79,6 +79,22 @@
     "cloud": 0
   },
   {
+    "key": "ChatBot",
+    "name": "ChatBot",
+    "url": "/tools/chatbot",
+    "description": "Minimalist AI Chat Interface",
+    "icon": "/tool_chatbot.svg",
+    "releaseDate": "2025-08-15",
+    "status": "active",
+    "tags": [
+      "ai",
+      "bot",
+      "chat"
+    ],
+    "author": "Zeki",
+    "cloud": 0
+  },
+  {
     "key": "2025-08-26 13:04:33",
     "name": "Polotno",
     "url": "https://studio.polotno.com",
@@ -94,21 +110,5 @@
     "author": "System",
     "cloud": 1,
     "newTab": 1
-  },
-  {
-    "key": "ChatBot",
-    "name": "ChatBot",
-    "url": "/tools/chatbot",
-    "description": "Minimalist AI Chat Interface",
-    "icon": "/tool_chatbot.svg",
-    "releaseDate": "2025-08-15",
-    "status": "active",
-    "tags": [
-      "ai",
-      "bot",
-      "chat"
-    ],
-    "author": "Zeki",
-    "cloud": 0
   }
 ]
