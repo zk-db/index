@@ -33,21 +33,6 @@
     "newTab": 0
   },
   {
-    "key": "2025-08-27 13:02:53",
-    "name": "tldraw",
-    "url": "https://www.tldraw.com",
-    "description": "white board",
-    "icon": "https://img.notionusercontent.com/ext/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F899a91b5-ba3c-4784-8e55-ab546efe769d%2Ficon_flat_white_on_black2x.png/size/w=160?exp=1756272076&sig=2B3tDGkn5o2QOAQs1SpKV8Bhx7_UkvSOYVZMANo41wo&id=1c83e4c3-24c0-8055-a1f9-007a541dee0f&table=custom_emoji",
-    "releaseDate": "2025-08-27",
-    "status": "active",
-    "tags": [
-      "whiteboard"
-    ],
-    "author": "tldraw",
-    "cloud": 1,
-    "newTab": 1
-  },
-  {
     "key": "2025-08-27 13:07:20",
     "name": "diagramming",
     "url": "https://zk-db.github.io/drawio/src/main/webapp/index.html",
@@ -110,5 +95,20 @@
     "author": "System",
     "cloud": 1,
     "newTab": 1
+  },
+  {
+    "key": "Canvas",
+    "name": "Canvas",
+    "url": "/tools/canvas",
+    "description": "Image, SVG Editing",
+    "icon": "/tool_canvas.svg",
+    "releaseDate": "2025-08-23",
+    "status": "beta",
+    "tags": [
+      "image",
+      "editing"
+    ],
+    "author": "Zeki",
+    "cloud": 0
   }
 ]
