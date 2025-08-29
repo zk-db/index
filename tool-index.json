@@ -110,5 +110,21 @@
     ],
     "author": "Zeki",
     "cloud": 0
+  },
+  {
+    "key": "2025-08-29 09:27:00",
+    "name": "deepwiki",
+    "url": "https://deepwiki.com",
+    "description": "GitHub project to wiki",
+    "icon": "https://deepwiki.com/favicon.ico",
+    "releaseDate": "2025-08-22 01:36:00",
+    "status": "active",
+    "tags": [
+      "github",
+      "learn"
+    ],
+    "author": "deepwiki",
+    "cloud": 1,
+    "newTab": 1
   }
 ]
