@@ -33,21 +33,6 @@
     "newTab": 0
   },
   {
-    "key": "2025-08-27 13:07:20",
-    "name": "diagramming",
-    "url": "https://zk-db.github.io/drawio/src/main/webapp/index.html",
-    "description": "diagramming, forked from draw.io",
-    "icon": "https://zk-db.github.io/drawio/src/main/webapp/images/apple-touch-icon.png",
-    "releaseDate": "2025-08-22 01:36:00",
-    "status": "active",
-    "tags": [
-      "diagramming"
-    ],
-    "author": "draw.io",
-    "cloud": 1,
-    "newTab": 1
-  },
-  {
     "key": "Files",
     "name": "Files",
     "url": "/tools/file",
@@ -124,6 +109,21 @@
       "tool"
     ],
     "author": "System",
+    "cloud": 1,
+    "newTab": 1
+  },
+  {
+    "key": "2025-08-27 13:07:20",
+    "name": "diagramming",
+    "url": "https://zk-db.github.io/drawio/src/main/webapp/index.html",
+    "description": "diagramming, forked from draw.io",
+    "icon": "https://zk-db.github.io/drawio/src/main/webapp/favicon.ico",
+    "releaseDate": "2025-08-22 01:36:00",
+    "status": "active",
+    "tags": [
+      "diagramming"
+    ],
+    "author": "draw.io",
     "cloud": 1,
     "newTab": 1
   }
