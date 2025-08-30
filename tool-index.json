@@ -96,23 +96,6 @@
     "newTab": 1
   },
   {
-    "key": "2025-08-26 13:04:33",
-    "name": "Polotno",
-    "url": "https://studio.polotno.com",
-    "description": "Descripe the tool(Not too long)",
-    "icon": "https://studio.polotno.com/favicon.ico",
-    "releaseDate": "2025-08-26",
-    "status": "active",
-    "tags": [
-      "image",
-      "layout",
-      "tool"
-    ],
-    "author": "System",
-    "cloud": 1,
-    "newTab": 1
-  },
-  {
     "key": "2025-08-27 13:07:20",
     "name": "diagramming",
     "url": "https://zk-db.github.io/drawio/src/main/webapp/index.html",
@@ -154,6 +137,23 @@
     "tags": [
       "ai",
       "image"
+    ],
+    "author": "System",
+    "cloud": 1,
+    "newTab": 1
+  },
+  {
+    "key": "2025-08-26 13:04:33",
+    "name": "Polotno",
+    "url": "https://studio.polotno.com",
+    "description": "images layout ",
+    "icon": "https://studio.polotno.com/favicon.ico",
+    "releaseDate": "2025-08-26",
+    "status": "active",
+    "tags": [
+      "image",
+      "layout",
+      "tool"
     ],
     "author": "System",
     "cloud": 1,
