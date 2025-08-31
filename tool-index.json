@@ -158,5 +158,20 @@
     "author": "System",
     "cloud": 1,
     "newTab": 1
+  },
+  {
+    "key": "2025-08-31 11:30:23",
+    "name": "Universe",
+    "url": "https://htwins.net/scale2/",
+    "description": "scale of universe",
+    "icon": "/cube.svg",
+    "releaseDate": "2025-08-31",
+    "status": "active",
+    "tags": [
+      "universe"
+    ],
+    "author": "System",
+    "cloud": 1,
+    "newTab": 1
   }
 ]
