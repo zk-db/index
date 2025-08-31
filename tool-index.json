@@ -173,5 +173,20 @@
     "author": "System",
     "cloud": 1,
     "newTab": 1
+  },
+  {
+    "key": "2025-08-31 11:33:26",
+    "name": "tools.fun",
+    "url": "https://tools.fun/",
+    "description": "useful tools",
+    "icon": "https://tools.fun/static/favicon-32x32.png",
+    "releaseDate": "2025-08-31",
+    "status": "active",
+    "tags": [
+      "tools"
+    ],
+    "author": "System",
+    "cloud": 1,
+    "newTab": 1
   }
 ]
