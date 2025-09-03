@@ -718,10 +718,10 @@
     "sha": "85638bf78d2ec8e1cb6dd399c1ce5f44e17a641f"
   },
   {
-    "title": "new-post",
+    "title": "Openapi generate tool",
     "slug": "newpost",
     "content": "",
-    "updateAt": "2025-08-29 16:14:02",
+    "updateAt": "2025-09-04 01:05:05",
     "tags": [
       "openapi",
       "doc"
