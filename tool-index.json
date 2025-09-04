@@ -204,5 +204,20 @@
     "author": "System",
     "cloud": 1,
     "newTab": 1
+  },
+  {
+    "key": "2025-09-04 16:27:37",
+    "name": "Tools Gallery",
+    "url": "https://zk-db.github.io/FeHelper/apps/",
+    "description": "Tools from FeHelper",
+    "icon": "https://zk-db.github.io/FeHelper/favicon.ico",
+    "releaseDate": "2025-08-22 01:36:00",
+    "status": "active",
+    "tags": [
+      "tools"
+    ],
+    "author": "System",
+    "cloud": 1,
+    "newTab": 1
   }
 ]
