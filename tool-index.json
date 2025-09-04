@@ -210,7 +210,7 @@
     "name": "Tools Gallery",
     "url": "https://zk-db.github.io/FeHelper/apps/",
     "description": "Tools from FeHelper",
-    "icon": "https://zk-db.github.io/FeHelper/favicon.ico",
+    "icon": "https://zk-db.github.io/FeHelper/static/img/fe-16.png",
     "releaseDate": "2025-08-22 01:36:00",
     "status": "active",
     "tags": [
