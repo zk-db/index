@@ -16,23 +16,6 @@
     "newTab": 1
   },
   {
-    "key": "Blog",
-    "name": "Blog",
-    "url": "/tools/blog",
-    "description": "Markdown powered blog system",
-    "icon": "/tool_blog.svg",
-    "releaseDate": "2025-08-20",
-    "status": "active",
-    "tags": [
-      "blog",
-      "markdown",
-      "github"
-    ],
-    "author": "Zeki",
-    "cloud": 0,
-    "newTab": 0
-  },
-  {
     "key": "Files",
     "name": "Files",
     "url": "/tools/file",
@@ -234,5 +217,22 @@
     "author": "System",
     "cloud": 1,
     "newTab": 1
+  },
+  {
+    "key": "Blog",
+    "name": "Editor",
+    "url": "/tools/blog",
+    "description": "Markdown powered blog system",
+    "icon": "/tool_blog.svg",
+    "releaseDate": "2025-08-20",
+    "status": "active",
+    "tags": [
+      "blog",
+      "markdown",
+      "github"
+    ],
+    "author": "Zeki",
+    "cloud": 0,
+    "newTab": 0
   }
 ]
