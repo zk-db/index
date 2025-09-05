@@ -30,20 +30,6 @@
     "sha": "102c917f573c25c19e4e9b4747f010dca9c59b21"
   },
   {
-    "slug": "Build-home-server",
-    "title": "Build-home-server",
-    "filename": "Build-home-server.md",
-    "content": "VIEW IN SOUECE MD FILE",
-    "createAt": "2025-08-18 23:28:32",
-    "updateAt": "2025-08-18 23:51:18",
-    "tags": [
-      "docker",
-      "home lab"
-    ],
-    "author": "zeki",
-    "sha": "5a21dfb49884368adbf60375547f970a8065685e"
-  },
-  {
     "slug": "CountDownLatch和CycilBarrier",
     "title": "CountDownLatch和CycilBarrier",
     "filename": "CountDownLatch和CycilBarrier.md",
