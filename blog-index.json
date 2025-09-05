@@ -693,18 +693,6 @@
     "sha": "1256fff8d662b710d2c3b3f7c4de3a2a38ed82b7"
   },
   {
-    "title": "zk app issues",
-    "slug": "zk-app-issues",
-    "content": "",
-    "updateAt": "2025-08-26 16:26:31",
-    "tags": [
-      "zkapp",
-      "issues"
-    ],
-    "createAt": "2025-08-20 01:41:39",
-    "author": "zeki"
-  },
-  {
     "slug": "about-blog",
     "title": "about-blog",
     "content": "VIEW IN SOUECE MD FILE",
