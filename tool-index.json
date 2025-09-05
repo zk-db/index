@@ -219,5 +219,20 @@
     "author": "System",
     "cloud": 1,
     "newTab": 1
+  },
+  {
+    "key": "2025-09-05 16:42:49",
+    "name": "My Blog",
+    "url": "https://www.zkapp.top/blog",
+    "description": "zk's blog",
+    "icon": "/cube.svg",
+    "releaseDate": "2025-09-05",
+    "status": "active",
+    "tags": [
+      "blog"
+    ],
+    "author": "System",
+    "cloud": 1,
+    "newTab": 1
   }
 ]
