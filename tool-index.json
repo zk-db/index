@@ -234,5 +234,21 @@
     "author": "Zeki",
     "cloud": 0,
     "newTab": 0
+  },
+  {
+    "key": "2025-09-12 09:54:36",
+    "name": "Trendings",
+    "url": "#",
+    "description": "AI trendings",
+    "icon": "https://trends.google.com/favicon.ico",
+    "releaseDate": "2025-08-22 01:36:00",
+    "status": "draft",
+    "tags": [
+      "trending",
+      "ai"
+    ],
+    "author": "System",
+    "cloud": 1,
+    "newTab": 1
   }
 ]
