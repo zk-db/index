@@ -10,6 +10,7 @@ Reading:
 - [lenciel.com](https://lenciel.com)
 - [lutaonan.com](https://lutaonan.com)
 - [henrikwarne.com](https://henrikwarne.com) - dev thinking
+- [blog.mikiobraun.de](https://blog.mikiobraun.de) - test and quality(english)
 
 Other sources:
 - https://github.com/codeman008/Excellent_person_blog
